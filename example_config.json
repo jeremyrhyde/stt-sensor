@@ -1,0 +1,12 @@
+{
+    "components": [
+      {
+        "name": "example_stt_sensor",
+        "type": "sensor",
+        "model": "jeremyrhyde:sensor:stt-sensor",
+        "attributes": {
+        },
+        "depends_on": []
+      }
+    ]
+  }
